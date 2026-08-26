@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://files.catbox.moe/ki5601.png" width="400">
+</div>
+<div align="center">
+  MY PROFILE GWEH
+</div>
+
 # 🫯 Hi! i'm Dràzzknyúkkz
 </> 👋 Saya Drazz, seorang pelajar yang tertarik pada pemrograman, teknologi, dan hal-hal baru. Terus belajar, terus berkembang. </>
 
